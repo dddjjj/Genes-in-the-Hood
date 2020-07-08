@@ -5,8 +5,7 @@ NCBI Datasets Codeathon Team 3
 - Team Member 1
 - Team Member 2
 - Vinita Joardar
-- Peter Meric
-
+- Jianli Dai
 ## The Project
 
 Our project is going to be awesome!
